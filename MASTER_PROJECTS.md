@@ -59,3 +59,12 @@ For every project maintain:
 8. Next Action
 
 Update this register after every major milestone.
+
+## LunarLander RL Research
+
+- GitHub: https://github.com/Tarunrbt/LunarLander-Research
+- Local Path: ~/MY_PROJECTS/LunarLander-Research
+- Status: Research files backed up and pushed to private GitHub repository
+- Last Working Date: 2026-11-15
+- Next Task: Inspect code, run LunarLander tests, and debug issues.
+- Latest Commit: 408c7de
