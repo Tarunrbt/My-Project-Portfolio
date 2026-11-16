@@ -1,13 +1,14 @@
 # MY PROJECT MASTER REGISTER
 Owner: Tarun Kumar Saxena
-Last Updated: 2026-11-15
+Last Updated: 2026-11-17
 
 ---
 
 ## 01. Bitcoin Research
 Project Type: Scientific Research
-Location: ~/bitcoin-research
-Status: EXPERIMENT 02 COMPLETED
+GitHub: https://github.com/Tarunrbt/Bitcoin-Research
+Local Path: ~/bitcoin-research
+Status: EXPERIMENT 02 COMPLETED; PUBLIC REPOSITORY CREATED
 
 Completed:
 - Experiment 01: SHA-256 Research
@@ -15,15 +16,17 @@ Completed:
 - Independent Hash Verification
 - 150 Statistical Mining Trials
 - Experiment 02 Backup Created
+- Research files committed and pushed to GitHub
 
 Next Task:
-Experiment 03 - Blockchain Construction
-and Tamper Detection
+Experiment 03 - Blockchain Construction and Tamper Detection
 
 ---
 
 ## 02. ShieldHSE / AI Safety Hub
 Project Type: HSE Technology
+GitHub: https://github.com/Tarunrbt/Shield-EPC-V0
+Local Path: ~/Shield-EPC-project-V_0
 Status: DEVELOPMENT
 
 Completed:
@@ -31,18 +34,26 @@ Completed:
 - AI Safety Hub
 - FastAPI Backend
 - Multi-Agent Pipeline
+- Evaluator and Logger integration
+- Stage 4 evaluation wiring
+- Historical Stage 3 audit report archived
 
 Next Task:
-Continue development and testing.
+Continue testing, validate evaluator behavior, and review pipeline evidence.
 
 ---
 
 ## 03. LunarLander RL Research
 Project Type: Reinforcement Learning
+GitHub: https://github.com/Tarunrbt/LunarLander-RL-Research
+Local Path: ~/MY_PROJECTS/LunarLander-Research
 Status: TESTING
 
+Note:
+A separate private repository named LunarLander-Research also exists. Confirm repository contents before consolidating or changing visibility.
+
 Next Task:
-Testing and Debugging.
+Inspect code, run LunarLander tests, and debug issues.
 
 ---
 
@@ -59,12 +70,3 @@ For every project maintain:
 8. Next Action
 
 Update this register after every major milestone.
-
-## LunarLander RL Research
-
-- GitHub: https://github.com/Tarunrbt/LunarLander-Research
-- Local Path: ~/MY_PROJECTS/LunarLander-Research
-- Status: Research files backed up and pushed to private GitHub repository
-- Last Working Date: 2026-11-15
-- Next Task: Inspect code, run LunarLander tests, and debug issues.
-- Latest Commit: 408c7de
